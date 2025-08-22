@@ -14,7 +14,7 @@ We're a collaborative team of passionate makers, breaking things, then rebuildin
 
 | ![Lakshay Rai](https://avatars.githubusercontent.com/Gekkorizz?s=100) | ![Prince Kumar Gupta](https://avatars.githubusercontent.com/HackStyx?s=100) | ![Nischay2004](https://avatars.githubusercontent.com/Nischay2004?s=100) |
 | :--: | :--: | :--: |
-| **Lakshay Rai** <br/> *(Gekkorizz)* <br/> UI/UX Developer & Frontend Specialist <br/> [Profile](https://github.com/Gekkorizz) | **Prince Kumar Gupta** <br/> *(HackStyx)* <br/> Full-Stack Dev, Co-founder <br/> [Profile](https://github.com/HackStyx) | **Nischay** <br/> *(Nischay2004)* <br/> ML & Deep Learning Enthusiast <br/> [Profile](https://github.com/Nischay2004) |
+| **Lakshay Rai** <br/> *(Gekkorizz)* <br/> UI/UX Developer & Frontend Specialist <br/> [Profile](https://github.com/Gekkorizz) | **Prince Kumar Gupta** <br/> *(HackStyx)* <br/> Full-Stack Dev, MLSS'25 <br/> [Profile](https://github.com/HackStyx) | **Nischay** <br/> *(Nischay2004)* <br/> ML & Deep Learning Enthusiast <br/> [Profile](https://github.com/Nischay2004) |
 
 ---
 
