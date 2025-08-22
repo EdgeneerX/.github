@@ -2,13 +2,17 @@
 
 Welcome to **EngX** (EdgeneerX) — your innovative crew for creative software engineering, sharpening our skills together on the bleeding edge.
 
----
 
 ## 🌟 Mission
 
 We're a collaborative team of passionate makers, breaking things, then rebuilding them smarter. Our goal: Learn, Build, and Share knowledge in Software Engineering.
 
----
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F62FE&center=true&vCenter=true&width=380&lines=Welcome+to+EngX!;Code.+Create.+Collaborate." alt="Typing SVG" />
+</p>
+
+
 
 ## 👥 Meet the Team
 
@@ -38,6 +42,3 @@ We build solutions, explore new tech, and contribute to open source.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F62FE&center=true&vCenter=true&width=380&lines=Welcome+to+EngX!;Code.+Create.+Collaborate." alt="Typing SVG" />
-</p>
